@@ -53,4 +53,4 @@ We list below the models whose results were presented in the paper along with th
 6. DPR (training): `models/DPR.py`
 7. DPR (inference script for generating dataframe for second stage): `models/DPR_inference.py`
 
-** HAN models **
+**HAN models**
