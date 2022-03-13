@@ -2,9 +2,14 @@
 
 This repo contains two main sub-projects:
 
-1. Dataset generation - code is under dataset_generation folder
-2. Models - code is under models folder
+1. Dataset request - form to request a copy of the WatClaimCheck dataset
+2. Dataset generation - code is under dataset_generation folder
+3. Models - code is under models folder
 
+## Dataset request
+
+The WatClaimCheck dataset is available upon request for non-commercial research purposes only under the fair dealing
+exception of the Canada Copyright Act.  Please fill up and submit the following form: https://forms.gle/sEZjvJqmyHdR4AMKA
 
 ## Dataset generation
 
