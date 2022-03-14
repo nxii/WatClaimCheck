@@ -35,9 +35,9 @@ glove_dir = "./glove.6B"
 embeddings_index = {}
 
 # use data generation script to get train.pkl, valid.pkl and test.pkl
-input_evd = pd.read_pickle('train.pkl')
-val_evd = pd.read_pickle('valid.pkl')
-test_evd = pd.read_pickle('test.pkl')
+input_evd = pd.read_pickle('data/train.pkl')
+val_evd = pd.read_pickle('data/valid.pkl')
+test_evd = pd.read_pickle('data/test.pkl')
 
 # class defining the custom attention layer
 class HierarchicalAttentionNetwork(Layer):

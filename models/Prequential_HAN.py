@@ -38,9 +38,9 @@ test_texts = []
 glove_dir = "./glove.6B"
 embeddings_index = {}
 
-input_evd = pd.read_pickle('train.pkl')
-val_evd = pd.read_pickle('valid.pkl')
-test_evd = pd.read_pickle('test.pkl')
+input_evd = pd.read_pickle('data/train.pkl')
+val_evd = pd.read_pickle('data/valid.pkl')
+test_evd = pd.read_pickle('data/test.pkl')
 
 input_evd = input_evd.sort_values(['date'])
 val_evd = val_evd.sort_values(['date'])
