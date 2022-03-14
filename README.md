@@ -59,7 +59,8 @@ We list below the models whose results were presented in the paper along with th
 7. DPR (inference script for generating dataframe for second stage): `models/DPR_inference.py`
 
 
-** Hierarchical Attention Networks **
+
+**Hierarchical Attention Networks**
 
 ### Requirements
 - datetime
