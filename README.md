@@ -52,7 +52,7 @@ We list below the models whose results were presented in the paper along with th
 
 1. Roberta-base (pooled) model: `models/Roberta_baseline.py`
 2. Roberta-base (averaged) model: `models/Roberta_weighted_baseline.py`
-3. Roberta-base (pooled) model using DPR dataframe: `models/Roberta_DPR_baseline.py'
+3. Roberta-base (pooled) model using DPR dataframe: `models/Roberta_DPR_baseline.py`
 4. Prequential Roberta-base (pooled) using DPR dataframe: `models/Prequential_roberta_dpr_pooled.py`
 5. Prequential Roberta-base (averaged) using DPR dataframe: `models/Prequential_roberta_dpr_averaged.py`
 6. DPR (training): `models/DPR.py`
