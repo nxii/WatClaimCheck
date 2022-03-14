@@ -57,5 +57,6 @@ We list below the models whose results were presented in the paper along with th
 5. Prequential Roberta-base (averaged) using DPR dataframe: `models/Prequential_roberta_dpr_averaged.py`
 6. DPR (training): `models/DPR.py`
 7. DPR (inference script for generating dataframe for second stage): `models/DPR_inference.py`
+8. HAN-base model: `models/HAN_baseline.py`
+9. HAN-prequential model: `models/Prequential_HAN.py`
 
-**HAN models**
