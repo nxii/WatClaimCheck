@@ -57,6 +57,22 @@ We list below the models whose results were presented in the paper along with th
 5. Prequential Roberta-base (averaged) using DPR dataframe: `models/Prequential_roberta_dpr_averaged.py`
 6. DPR (training): `models/DPR.py`
 7. DPR (inference script for generating dataframe for second stage): `models/DPR_inference.py`
-8. HAN-base model (Bi-LSTM): `models/HAN_baseline.py`
-9. HAN-prequential model (Bi-LSTM): `models/Prequential_HAN.py`
 
+
+** Hierarchical Attention Networks **
+
+### Requirements
+- datetime
+- dateutil
+- h5py
+- keras
+- nltk
+- numpy
+- pandas
+- tensorflow
+- tqdm
+
+Before running HAN models, use data generation script to generate `train.pkl`, `valid.pkl` and `test.pkl` in the data directory. HAN models can be simply run by:
+
+1. HAN-base model (Bi-LSTM): `models/HAN_baseline.py`
+2. HAN-prequential model (Bi-LSTM): `models/Prequential_HAN.py`
