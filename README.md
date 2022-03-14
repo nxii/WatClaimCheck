@@ -60,8 +60,7 @@ We list below the models whose results were presented in the paper along with th
 
 
 
-**Hierarchical Attention Networks**
-
+## Hierarchical Attention Networks:
 ### Requirements
 - datetime
 - dateutil
