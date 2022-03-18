@@ -8,8 +8,10 @@ This repo contains two main sub-projects:
 
 ## Dataset request
 
-The WatClaimCheck dataset is available upon request for non-commercial research purposes only under the fair dealing
-exception of the Canada Copyright Act.  Please fill up and submit the following form: https://forms.gle/sEZjvJqmyHdR4AMKA
+The WatClaimCheck dataset is available upon request for non-commercial research purposes only under the Fair Dealing
+exception of the Canadian Copyright Act.  Please submit the following form to receive a copy of the dataset: https://forms.gle/sEZjvJqmyHdR4AMKA
+
+Third party materials included in this dataset have been included using the Fair Dealing exception in the Canadian Copyright Act. If you believe your work is included in this dataset and would like us to remove it, please let us know at ppoupart@uwaterloo.ca.
 
 ## Dataset generation
 
