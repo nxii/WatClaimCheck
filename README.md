@@ -1,10 +1,11 @@
 # WatClaimCheck
 
-This repo contains two main sub-projects:
+This repo contains information about two main sub-projects:
 
-1. Dataset request - form to request a copy of the WatClaimCheck dataset
-2. Dataset generation - code is under dataset_generation folder
-3. Models - code is under models folder
+1. Dataset generation - code is under dataset_generation folder
+2. Models - code is under models folder
+
+Additionally, it also contains information on how to request access to the dataset.
 
 ## Dataset request
 
