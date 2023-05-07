@@ -9,7 +9,7 @@ Additionally, it also contains information on how to request access to the datas
 
 Upon usage of the WatClaimCheck dataset, please make sure to cite the paper that describes the dataset:
 
-Khan, K., Wang, R., & Poupart, P. (2022, May). WatClaimCheck: A new Dataset for Claim Entailment and Inference. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 1293-1304).
+**Khan, K., Wang, R., & Poupart, P. (2022, May). WatClaimCheck: A new Dataset for Claim Entailment and Inference. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 1293-1304).**
 https://aclanthology.org/2022.acl-long.92.pdf
 
 ## Dataset request
