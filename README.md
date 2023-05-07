@@ -7,6 +7,11 @@ This repo contains information about two main sub-projects:
 
 Additionally, it also contains information on how to request access to the dataset.
 
+Upon usage of the WatClaimCheck dataset, please make sure to cite the paper that describes the dataset:
+
+Khan, K., Wang, R., & Poupart, P. (2022, May). WatClaimCheck: A new Dataset for Claim Entailment and Inference. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 1293-1304).
+https://aclanthology.org/2022.acl-long.92.pdf
+
 ## Dataset request
 
 The WatClaimCheck dataset is available upon request for non-commercial research purposes only under the Fair Dealing
